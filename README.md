@@ -45,3 +45,8 @@ Muh. Ikhwanus Sofa
 ### Login
 
 ![Login](screenshots/login.png)
+## 🎥 Demo Video
+
+Klik tautan di bawah untuk melihat demonstrasi aplikasi:
+
+▶️ **[Demo Kasir Al-Fatih Mart](https://drive.google.com/file/d/1fFcVnZnppIq0EfSLfEG8NjvpmovIJp6C/view?usp=sharing)**
