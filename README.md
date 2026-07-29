@@ -45,8 +45,3 @@ Muh. Ikhwanus Sofa
 ### Login
 
 ![Login](screenshots/login.png)
-## 🎥 Demo Video
-
-Video demo tersedia di folder:
-
-demo/demo-kasir.mp4
